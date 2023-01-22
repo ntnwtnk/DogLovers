@@ -5,3 +5,8 @@ Labrador Retriever
 Pomeranian
 Doberman Pinscher
 Pit bull
+German Shepherd
+Rottweiler
+Golden Retriever
+Bernese Mountain Dog
+
