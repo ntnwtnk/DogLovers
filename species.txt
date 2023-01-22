@@ -1,4 +1,7 @@
 Example of sepecies
 French Bulldog
-Husky
+Siberian Husky
 Labrador Retriever
+Pomeranian
+Doberman Pinscher
+Pit bull
